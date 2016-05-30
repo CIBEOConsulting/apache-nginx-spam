@@ -5,7 +5,7 @@ Fichier de configuration pour Apache et Nginx pour bloquer les requêtes HTTP de
 # Nginx : spam-referer.conf
 
 Pour utiliser cette méthode votre serveur doit disposer de Nginx.
-Copier le contenu du fichier spam-refere.conf dans /etc/nginx/site-available/votre-site.conf
+Copier le contenu du fichier spam-referer.conf dans /etc/nginx/site-available/votre-site.conf
 
 # Apache: .htaccess
 
