@@ -1,3 +1,8 @@
+# https://github.com/CIBEOConsulting/apache-nginx-spam
+# Auteur : CIBEO Consulting
+# Url : http://www.cibeo-consulting.com
+
+# Blocage spam sites référents
 <IfModule mod_rewrite.c>
 
 RewriteEngine On
